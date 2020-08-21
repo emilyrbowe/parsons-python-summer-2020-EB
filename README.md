@@ -1,5 +1,5 @@
 # parsons-python-summer-2020-EB
-Homework following along with the Parsons Summer 2020 Python class
+Homework following along with the [Parsons Summer 2020 Python class](https://github.com/parsons-python-summer-2020/python)
 
 Keeping track of what I've done and not done for Parsons Python Summer 2020 course
 
@@ -31,18 +31,23 @@ Keeping track of what I've done and not done for Parsons Python Summer 2020 cour
   - [ ] FaceBlur
   - [ ] Numbers Live Code Empty
 
-
 ## **Week 6: Automation, APIs**
-  - [ ]
+  - [ ] Twitter bot
+  - [ ] os/time automation example
 
 ## **Week 7: Data visualization**
-  - [ ]
+  - [ ] matplotlib example
+  - [ ] pandas example
 
 ## **Week 8: Text manipulation, Data scraping, Regular Expression**
-  - [ ]
+  - [ ] regex example
+  - [ ] scraping
+  - [ ] word 2 vec example code
 
 ## **Week 9: Computer vision**
-  - [ ]
+  - [ ] image processing CV example
+  - [ ] feature detection
+  - [ ] real-time object detection
 
 ## **Week 10: Machine learning**
-  - [ ]
+  - [ ] ML example
